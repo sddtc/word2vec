@@ -1,0 +1,9 @@
+compute-accuracy
+distance
+news.2012.en.shuffled*
+text8*
+vectors-phrase.bin
+vectors.bin
+word-analogy
+word2phrase
+word2vec
